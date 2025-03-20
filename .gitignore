@@ -1,3 +1,6 @@
 .venv
 **/__pycache__/
 .idea
+.DS_Store
+data/bank_churn_data.csv
+data/Bank Customer Churn Prediction.csv
